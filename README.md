@@ -24,18 +24,18 @@ Coffee Mug jest zbudowana przy użyciu nowoczesnych technologii, takich jak .NET
 Aby uruchomić Coffee Mug lokalnie, wykonaj następujące kroki:
 
 1. Sklonuj repozytorium:
-   \```
+   ```
    git clone https://github.com/dziuba-dev/coffee-mug.git
-   \```
+   ```
 2. Zainstaluj zależności:
-   \```
+   ```
    cd coffee-mug/CoffeeMug.API
    dotnet build
-   \```
+   ```
 3. Uruchom serwer backendowy:
-   \```
+   ```
    dotnet run
-   \```
+   ```
 4. Otwórz przeglądarkę i przejdź do `https://localhost:5001;http://localhost:5000` aby korzystać z aplikacji.
 
 ## Wsparcie i współpraca
